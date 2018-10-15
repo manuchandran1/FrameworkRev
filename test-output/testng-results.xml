@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-10-14T09:15:32Z" name="Suite" finished-at="2018-10-14T09:15:47Z" duration-ms="15323">
+  <suite started-at="2018-10-15T04:20:23Z" name="Suite" finished-at="2018-10-15T04:20:36Z" duration-ms="13591">
     <groups>
     </groups>
-    <test started-at="2018-10-14T09:15:32Z" name="Test" finished-at="2018-10-14T09:15:47Z" duration-ms="15323">
+    <test started-at="2018-10-15T04:20:23Z" name="Test" finished-at="2018-10-15T04:20:36Z" duration-ms="13591">
       <class name="com.revolutionit.TestScripts.BookFlight_Positive">
-        <test-method is-config="true" signature="extentReport_Generator()[pri:0, instance:com.revolutionit.TestScripts.BookFlight_Positive@5552768b]" started-at="2018-10-14T09:15:31Z" name="extentReport_Generator" finished-at="2018-10-14T09:15:32Z" duration-ms="246" status="PASS">
+        <test-method is-config="true" signature="extentReport_Generator()[pri:0, instance:com.revolutionit.TestScripts.BookFlight_Positive@5552768b]" started-at="2018-10-15T04:20:23Z" name="extentReport_Generator" finished-at="2018-10-15T04:20:23Z" duration-ms="253" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- extentReport_Generator -->
-        <test-method is-config="true" signature="LaunchAppliation()[pri:0, instance:com.revolutionit.TestScripts.BookFlight_Positive@5552768b]" started-at="2018-10-14T09:15:32Z" name="LaunchAppliation" finished-at="2018-10-14T09:15:36Z" duration-ms="4010" status="PASS">
+        <test-method is-config="true" signature="LaunchAppliation()[pri:0, instance:com.revolutionit.TestScripts.BookFlight_Positive@5552768b]" started-at="2018-10-15T04:20:24Z" name="LaunchAppliation" finished-at="2018-10-15T04:20:28Z" duration-ms="4115" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchAppliation -->
-        <test-method signature="Test_BookFlight_Positive(java.util.Map)[pri:0, instance:com.revolutionit.TestScripts.BookFlight_Positive@5552768b]" started-at="2018-10-14T09:15:36Z" name="Test_BookFlight_Positive" data-provider="DataProvider_BookFlightPositive" finished-at="2018-10-14T09:15:46Z" duration-ms="9984" status="PASS">
+        <test-method signature="Test_BookFlight_Positive(java.util.Map)[pri:0, instance:com.revolutionit.TestScripts.BookFlight_Positive@5552768b]" started-at="2018-10-15T04:20:28Z" name="Test_BookFlight_Positive" data-provider="DataProvider_BookFlightPositive" finished-at="2018-10-15T04:20:36Z" duration-ms="8121" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,7 +26,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test_BookFlight_Positive -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.revolutionit.TestScripts.BookFlight_Positive@5552768b]" started-at="2018-10-14T09:15:46Z" name="TearDown" finished-at="2018-10-14T09:15:47Z" duration-ms="544" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.revolutionit.TestScripts.BookFlight_Positive@5552768b]" started-at="2018-10-15T04:20:36Z" name="TearDown" finished-at="2018-10-15T04:20:36Z" duration-ms="561" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->

@@ -18,7 +18,7 @@ public class Dataprovider_Class
 	// This method Supplies the Data to the Test Script 'Test_BookFlight_Positive'.
 	
 	@DataProvider(name = "DataProvider_BookFlightPositive")
-	public static Iterator<Object[]> getValidLoginData() throws IOException
+	public static Iterator<Object[]> getData_BookFlightPositive() throws IOException
 	{
 		// Common Data Provider Logic is called with the Test Data Sheet Name and Test Script Name as arguments
 		return commonDataProvider_Logic("BookFlight","BookFlight_Positive");
