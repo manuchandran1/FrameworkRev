@@ -6,7 +6,7 @@
       <class name="com.revolutionit.TestScripts.BookFlight_Positive">
         <methods>
           <include name="TearDown"/>
-          <include name="Test_BookFlight_Positive" invocation-numbers="0"/>
+          <include name="Test_BookFlight_Positive"/>
           <include name="LaunchAppliation"/>
           <include name="extentReport_Generator"/>
         </methods>
